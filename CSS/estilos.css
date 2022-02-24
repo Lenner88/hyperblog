@@ -3,6 +3,16 @@ body
     color: #333;;
     text-align: center;
     font-family: "Arial";
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+#cabecera
+{
+    background: #33a;
+    color: white;
+    margin: 0;
+    padding: 0.5cm;
 }
 #container
 {
@@ -11,4 +21,8 @@ body
     text-align: left;
     border: 1px solid #000;
     margin: 0 auto;
+}
+#container
+{
+    font-size: 20px;
 }
